@@ -1,4 +1,4 @@
-# 08 - Scala map and flatMap
+# 09 - Scala for-comprehension
 
 This repository contains code examples for the respective teaching session. It is a specific context that depends on the topic of the teaching.
 
